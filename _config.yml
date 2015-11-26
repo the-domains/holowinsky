@@ -2,6 +2,7 @@ name: holowinsky
 favicon: null
 layout_spectrum: 0.5198927568271756
 typography_spectrum: 0.3676080033183098
+title: grid site
 cta:
   domain: null
   bucket: null

@@ -4,7 +4,7 @@
         <description><![CDATA[grid site]]></description>
         <link>https://thegrid.ai/holowinsky/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 Nov 2015 21:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2015 21:57:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/holowinsky/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://holowinsky.com/</link>
             <guid isPermaLink="false">3c72be05-31b5-45f1-a990-6f62171842f3</guid>
             <pubDate>Thu, 26 Nov 2015 21:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roman Holowinsky]]></title>
+            <description><![CDATA[<article><h1>Roman Holowinsky</h1><p>Roman Holowinsky is an American mathematician known for his work in analytic number theory and, in particular, the theory of modular forms. He is currently an Associate Professor with tenure at The Ohio State University and Chair and Founding Director of The STEAM Factory.</p><img src="http://holowinsky.com/images/collaborations2sq.jpg"></article>]]></description>
+            <link>http://holowinsky.com/</link>
+            <guid isPermaLink="false">a4bc1faf-c58e-4938-9b9e-af08c83e35a5</guid>
+            <pubDate>Thu, 26 Nov 2015 21:57:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
